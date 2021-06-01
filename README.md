@@ -1,2 +1,2 @@
-# Bezier_cureve_in_Python
+# Bezier_curve_in_Python
 Implementation of bezier curve in Python
